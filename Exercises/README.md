@@ -3,3 +3,4 @@ This folder contains solutions to Springboard exercises, including (in order of 
 1. JSON Exercises
 2. SQL Mini-project
 3. API Mini-project
+4. Inferential Statistics Part 1

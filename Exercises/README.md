@@ -6,3 +6,4 @@ This folder contains solutions to Springboard exercises, including (in order of 
 4. Inferential Statistics Part 1a - Frequentist Inference
 5. Inferential Statistics Part 1b - Frequentist Inference
 6. Inferential Statistics Part 2 - Bootstrap Inference
+7. Inferential Statistics Part 3 - Bayesian Inference

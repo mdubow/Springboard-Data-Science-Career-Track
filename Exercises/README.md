@@ -9,4 +9,5 @@ This folder contains solutions to Springboard exercises, including (in order of 
 7. Inferential Statistics Part 3 - Bayesian Inference
 8. Linear Regression Mini-Project
 9. Logistic Regression Mini-Project
-10. Naive Bayes Mini_Project
+10. Naive Bayes Mini-Project
+11. Clustering Mini-Project

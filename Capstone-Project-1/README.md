@@ -8,3 +8,5 @@ This repository contains the different sections of this capstone project, includ
 4) Machine Learning
 5) Final Project Files
 6) Intermediate code used for reference to specific problems encountered throughout the project
+
+The Final Project folder includes the code for the entire project, as well as a slide deck and written report.

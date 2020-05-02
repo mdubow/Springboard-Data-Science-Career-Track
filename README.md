@@ -1,4 +1,4 @@
-# Springboard-Data-Science-Career-Track
+# Springboard Data Science Career Track
 
 This repository contains all files related to the Springboard Data Science intensive course. 
 

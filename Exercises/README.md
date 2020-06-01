@@ -12,3 +12,4 @@ This folder contains solutions to Springboard exercises, including (in order of 
 10. Naive Bayes Mini-Project
 11. Clustering Mini-Project
 12. Ultimate Take Home Challenge
+13. Relax Take Home Challenge
